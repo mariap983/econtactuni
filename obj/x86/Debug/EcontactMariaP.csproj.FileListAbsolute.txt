@@ -1,0 +1,15 @@
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\Econtact\EcontactMariaP\bin\Debug\Econtact.exe.config
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\Econtact\EcontactMariaP\obj\x86\Debug\Econtact.exe
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\Econtact\EcontactMariaP\obj\x86\Debug\Econtact.pdb
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\Econtact\EcontactMariaP\bin\Debug\EcontactMariaP.exe.config
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\EcontactMariaP\EcontactMariaP\bin\Debug\EcontactMariaP.exe.config
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\EcontactMariaP\EcontactMariaP\bin\Debug\EcontactMariaP.exe
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\EcontactMariaP\EcontactMariaP\bin\Debug\EcontactMariaP.pdb
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\EcontactMariaP\EcontactMariaP\obj\x86\Debug\Econtact.Econtact.resources
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\EcontactMariaP\EcontactMariaP\obj\x86\Debug\EcontactMariaP.Properties.Resources.resources
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\EcontactMariaP\EcontactMariaP\obj\x86\Debug\EcontactMariaP.csproj.GenerateResource.Cache
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\EcontactMariaP\EcontactMariaP\obj\x86\Debug\EcontactMariaP.exe
+D:\UNIVERSITY\3 семестър\Визуални среди за програмиране\ВСП2\EcontactMariaP\EcontactMariaP\obj\x86\Debug\EcontactMariaP.pdb
+C:\Users\mimi\Desktop\EcontactMariaP\bin\Debug\EcontactMariaP.exe.config
+C:\Users\mimi\Desktop\EcontactMariaP\obj\x86\Debug\EcontactMariaP.exe
+C:\Users\mimi\Desktop\EcontactMariaP\obj\x86\Debug\EcontactMariaP.pdb
